@@ -47,10 +47,10 @@
           "rival" : "NDSU"
         },
         {
-          "abbreviation" : "UF",
-          "prestige" : "84",
-          "state" : "Florida",
-          "name" : "Florida",
+          "abbreviation" : "SDSU",
+          "prestige" : "91",
+          "state" : "South Dakota",
+          "name" : "South Dakota State",
           "headCoach" : {
             "contractLength" : "5",
             "startYear" : "2019",
@@ -66,13 +66,13 @@
             "name" : "Dan Mullen",
             "contractYear" : "1"
           },
-          "rival" : "UGA"
+          "rival" : "SDU"
         },
         {
-          "abbreviation" : "LSU",
-          "prestige" : "81",
-          "state" : "Louisiana",
-          "name" : "LSU",
+          "abbreviation" : "ILST",
+          "prestige" : "88",
+          "state" : "Illinois",
+          "name" : "Illinois State",
           "headCoach" : {
             "contractLength" : "5",
             "startYear" : "2019",
@@ -88,13 +88,13 @@
             "name" : "Ed Orgeron",
             "contractYear" : "1"
           },
-          "rival" : "ARK"
+          "rival" : "SIU"
         },
         {
-          "abbreviation" : "AUB",
-          "prestige" : "76",
-          "state" : "Alabama",
-          "name" : "Auburn",
+          "abbreviation" : "SIU",
+          "prestige" : "87",
+          "state" : "Illinois",
+          "name" : "Illinois State",
           "headCoach" : {
             "contractLength" : "2",
             "startYear" : "2019",
@@ -110,13 +110,13 @@
             "name" : "Gus Malzahn",
             "contractYear" : "1"
           },
-          "rival" : "BAMA"
+          "rival" : "ILST"
         },
         {
-          "abbreviation" : "MSST",
-          "prestige" : "75",
-          "state" : "Mississippi",
-          "name" : "Mississippi State",
+          "abbreviation" : "SDU",
+          "prestige" : "84",
+          "state" : "South Dakota",
+          "name" : "South Dakota",
           "headCoach" : {
             "contractLength" : "4",
             "startYear" : "2019",
@@ -135,10 +135,10 @@
           "rival" : "MISS"
         },
         {
-          "abbreviation" : "TENN",
-          "prestige" : "68",
-          "state" : "Tennessee",
-          "name" : "Tennessee",
+          "abbreviation" : "INST",
+          "prestige" : "82",
+          "state" : "Indiana",
+          "name" : "Indiana State",
           "headCoach" : {
             "contractLength" : "5",
             "startYear" : "2019",
@@ -154,13 +154,13 @@
             "name" : "Jeremy Pruitt",
             "contractYear" : "1"
           },
-          "rival" : "VAND"
+          "rival" : "YSU"
         },
         {
-          "abbreviation" : "MISS",
-          "prestige" : "65",
-          "state" : "Mississippi",
-          "name" : "Ole Miss",
+          "abbreviation" : "YSU",
+          "prestige" : "81",
+          "state" : "Ohio",
+          "name" : "Youngstown State",
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2019",
@@ -176,13 +176,13 @@
             "name" : "Matt Luke",
             "contractYear" : "1"
           },
-          "rival" : "MSST"
+          "rival" : "INST"
         },
         {
-          "abbreviation" : "ARK",
-          "prestige" : "64",
-          "state" : "Arkansas",
-          "name" : "Arkansas",
+          "abbreviation" : "MOST",
+          "prestige" : "76",
+          "state" : "Missouri",
+          "name" : "Missouri State",
           "headCoach" : {
             "contractLength" : "4",
             "startYear" : "2019",
@@ -198,13 +198,13 @@
             "name" : "Chad Morris",
             "contractYear" : "1"
           },
-          "rival" : "LSU"
+          "rival" : "WIU"
         },
         {
-          "abbreviation" : "VAND",
-          "prestige" : "64",
-          "state" : "Kentucky",
-          "name" : "Vanderbilt",
+          "abbreviation" : "WIU",
+          "prestige" : "72",
+          "state" : "Illinois",
+          "name" : "Western Illinois",
           "headCoach" : {
             "contractLength" : "2",
             "startYear" : "2019",
@@ -220,7 +220,7 @@
             "name" : "Derek Mason",
             "contractYear" : "1"
           },
-          "rival" : "TENN"
+          "rival" : "MOST"
         }
       ],
       "confFullName" : "Southeastern Conference",
