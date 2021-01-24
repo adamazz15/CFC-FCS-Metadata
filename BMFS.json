@@ -3,10 +3,10 @@
     {
       "confTeams" : [
         {
-          "abbreviation" : "BAMA",
-          "prestige" : "94",
-          "state" : "Alabama",
-          "name" : "Alabama",
+          "abbreviation" : "NDSU",
+          "prestige" : "99",
+          "state" : "North Dakota",
+          "name" : "North Dakota State",
           "headCoach" : {
             "contractLength" : "7",
             "startYear" : "2019",
@@ -22,13 +22,13 @@
             "name" : "Nick Saban",
             "contractYear" : "1"
           },
-          "rival" : "AUB"
+          "rival" : "UNI"
         },
         {
-          "abbreviation" : "UGA",
-          "prestige" : "84",
-          "state" : "Georgia",
-          "name" : "Georgia",
+          "abbreviation" : "UNI",
+          "prestige" : "96",
+          "state" : "Iowa",
+          "name" : "Northern Iowa",
           "headCoach" : {
             "contractLength" : "5",
             "startYear" : "2019",
@@ -44,7 +44,7 @@
             "name" : "Kirby Smart",
             "contractYear" : "1"
           },
-          "rival" : "UF"
+          "rival" : "NDSU"
         },
         {
           "abbreviation" : "UF",
