@@ -223,17 +223,17 @@
           "rival" : "MOST"
         }
       ],
-      "confFullName" : "Southeastern Conference",
-      "confPrestige" : "92",
-      "confName" : "SEC"
+      "confFullName" : "Missouri Valley",
+      "confPrestige" : "95",
+      "confName" : "MVC"
     },
     {
       "confTeams" : [
         {
-          "abbreviation" : "OSU",
-          "prestige" : "86",
-          "state" : "Ohio",
-          "name" : "Ohio State",
+          "abbreviation" : "JMU",
+          "prestige" : "97",
+          "state" : "Virginia",
+          "name" : "James Madison",
           "headCoach" : {
             "contractLength" : "4",
             "startYear" : "2019",
@@ -249,13 +249,14 @@
             "name" : "Ryan Day",
             "contractYear" : "1"
           },
-          "rival" : "PSU"
+          "rival" : "RICH"
         },
         {
-          "abbreviation" : "PSU",
-          "prestige" : "83",
-          "state" : "Pennsylvania",
-          "name" : "Penn State",
+          "abbreviation" : "
+          ",
+          "prestige" : "94",
+          "state" : "New York",
+          "name" : "UAlbany",
           "headCoach" : {
             "contractLength" : "3",
             "startYear" : "2019",
@@ -271,13 +272,13 @@
             "name" : "James Franklin",
             "contractYear" : "1"
           },
-          "rival" : "OSU"
+          "rival" : "NOVA"
         },
         {
-          "abbreviation" : "IOWA",
-          "prestige" : "81",
-          "state" : "Iowa",
-          "name" : "Iowa",
+          "abbreviation" : "UNH",
+          "prestige" : "89",
+          "state" : "New Hampshire",
+          "name" : "New Hampshire",
           "headCoach" : {
             "contractLength" : "7",
             "startYear" : "2019",
@@ -293,13 +294,13 @@
             "name" : "Kirk Ferentz",
             "contractYear" : "1"
           },
-          "rival" : "NEB"
+          "rival" : "UME"
         },
         {
-          "abbreviation" : "NW",
-          "prestige" : "81",
-          "state" : "Illinois",
-          "name" : "Northwestern",
+          "abbreviation" : "NOVA",
+          "prestige" : "88",
+          "state" : "Pennsylvania",
+          "name" : "Villanova",
           "headCoach" : {
             "contractLength" : "7",
             "startYear" : "2019",
@@ -315,13 +316,13 @@
             "name" : "Pat Fitzgerald",
             "contractYear" : "1"
           },
-          "rival" : "PUR"
+          "rival" : "ALB"
         },
         {
-          "abbreviation" : "UM",
-          "prestige" : "79",
-          "state" : "Michigan",
-          "name" : "Michigan",
+          "abbreviation" : "RICH",
+          "prestige" : "85",
+          "state" : "Virginia",
+          "name" : "Richmond",
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2019",
@@ -337,13 +338,13 @@
             "name" : "Jim Harbaugh",
             "contractYear" : "1"
           },
-          "rival" : "MSU"
+          "rival" : "JMU"
         },
         {
-          "abbreviation" : "MINN",
-          "prestige" : "78",
-          "state" : "Minnesota",
-          "name" : "Minnesota",
+          "abbreviation" : "UME",
+          "prestige" : "83",
+          "state" : "Maine",
+          "name" : "Maine",
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2019",
@@ -359,13 +360,13 @@
             "name" : "PJ Fleck",
             "contractYear" : "1"
           },
-          "rival" : "WIS"
+          "rival" : "UNH"
         },
         {
-          "abbreviation" : "WIS",
-          "prestige" : "77",
-          "state" : "Wisconsin",
-          "name" : "Wisconsin",
+          "abbreviation" : "ELON",
+          "prestige" : "81",
+          "state" : "North Carolina",
+          "name" : "Elon",
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2019",
